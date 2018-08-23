@@ -11,7 +11,7 @@ namespace MakeCommand
 	{
 		static void Main(string[] args)
 		{
-			StringBuilder aDebugCommand = new StringBuilder("-browser Firefox -project EHOST ");
+			StringBuilder aDebugCommand = new StringBuilder("-browser Chrome -project EHOST ");
 			StringBuilder aLegacyCommand = new StringBuilder("-i EHOST ");
 			StringBuilder aTestJob = new StringBuilder();
 
