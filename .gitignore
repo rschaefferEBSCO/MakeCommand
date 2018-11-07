@@ -1,3 +1,5 @@
 Tests.txt
 bin/
 obj/
+*.suo
+*.user
